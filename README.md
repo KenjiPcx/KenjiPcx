@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web frameworks
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me 
+-  Check out my [uni repository](https://gitlab.cs.man.ac.uk/b78785cp)
 
 <!---
 KenjiPcx/KenjiPcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
