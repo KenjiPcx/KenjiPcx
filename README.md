@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kenji Phang</h1>
-<h3 align="center">Software Engineer at Interact Software, Microsoft Learn Student Ambassador, Encode Bootcamper, Builder</h3>
-
+<h3 align="center">Software Engineer at Interact Software, Microsoft Learn Student Ambassador, Encode Bootcamper</h3>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjipcx&label=Profile%20views&color=0e75b6&style=flat" alt="kenjipcx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenjipcx" alt="kenjipcx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=kenjipcx" alt="kenjipcx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kenjiphang" target="blank"><img src="https://img.shields.io/twitter/follow/kenjiphang?logo=twitter&style=for-the-badge" alt="kenjiphang" /></a> </p>
 
@@ -41,12 +41,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kenjiphang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kenjiphang" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenjipcx&show_icons=true&locale=en&layout=compact" alt="kenjipcx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenjipcx&show_icons=true&locale=en" alt="kenjipcx" /></p>
-
+<h3 align="left">Some stats 😆✨:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenjipcx&show_icons=true&locale=en" alt="kenjipcx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenjipcx&" alt="kenjipcx" /></p>
+<p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenjipcx&show_icons=true&locale=en&layout=compact" alt="kenjipcx" /></p>
 
+  
 <!---
 KenjiPcx/KenjiPcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
