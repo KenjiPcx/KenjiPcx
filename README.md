@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kenji Phang</h1>
-<h3 align="center">Summer Software Analyst @ Goldman Sachs, ex-Interace Software, ex-Imago Software</h3>
-<h3 align="center">🥇 Gold Microsoft Student Ambassador, 🚩 GitHub Campus Experts, 🕸️ Encode Bootcamper</h3>
+<h1 align="center">👋 Hi, I'm Kenji Phang</h1>
+<h3 align="center">👨🏼‍💻 Summer Software Analyst @ Goldman Sachs, ex-Interact Software, ex-Imago Software</h3>
+<h3 align="center">🥇 Gold Microsoft Student Ambassador, 🚩 GitHub Campus Experts, 🕸️3️⃣ Encode Bootcamper</h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenjipcx&label=Profile%20views&color=0e75b6&style=flat" alt="kenjipcx" /> </p>
 
