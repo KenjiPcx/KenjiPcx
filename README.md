@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/kenjiphang" target="blank"><img src="https://img.shields.io/twitter/follow/kenjiphang?logo=twitter&style=for-the-badge" alt="kenjiphang" /></a> </p>
-<img src="https://user-images.githubusercontent.com/56083944/235498008-549e8a0d-7dea-4090-a468-4f6920b128e2.png" width="325" align="right" />
+
 
 </br>
 <p>About me</p>
